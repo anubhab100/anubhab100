@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anubhab100
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Vue.js and Nuxt.js 
-- 💞️ I’m looking to collaborate on web D evelopment technologies
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 email me on:tarundananubhab@gmail.com
 
 <!---
