@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anubhab100
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Vue.js and Nuxt.js 
+- 🌱 I’m currently working on Java and SpringBoot
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 email me on:tarundananubhab@gmail.com
 
